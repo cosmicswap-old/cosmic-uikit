@@ -2153,11 +2153,11 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://github.com/cosmicswap/",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://github.com/cosmicswap",
             },
         ],
     },
