@@ -150,22 +150,22 @@ export const socials = [
       //   label: "Português",
       //   href: "https://t.me/PancakeSwapPortuguese",
       // },
-      {
-        label: "Español",
-        href: "https://t.me/goosefinancespanish",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/goosefinancefrench",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/goosefinanceann",
-      },
+      // {
+      //   label: "Español",
+      //   href: "https://t.me/goosefinancespanish",
+      // },
+      // {
+      //   label: "日本語",
+      //   href: "https://t.me/goosefinancejapanese",
+      // },
+      // {
+      //   label: "Français",
+      //   href: "https://t.me/goosefinancefrench",
+      // },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/goosefinanceann",
+      // },
       {
         label: "Price Bot",
         href: "https://t.me/BinanceRocketEGG",
