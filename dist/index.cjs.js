@@ -2149,7 +2149,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/cosmicswap/",
             },
             {
                 label: "Docs",
@@ -2199,22 +2199,22 @@ var socials = [
             //   label: "Português",
             //   href: "https://t.me/PancakeSwapPortuguese",
             // },
-            {
-                label: "Español",
-                href: "https://t.me/goosefinancespanish",
-            },
-            {
-                label: "日本語",
-                href: "https://t.me/goosefinancejapanese",
-            },
-            {
-                label: "Français",
-                href: "https://t.me/goosefinancefrench",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
+            // {
+            //   label: "Español",
+            //   href: "https://t.me/goosefinancespanish",
+            // },
+            // {
+            //   label: "日本語",
+            //   href: "https://t.me/goosefinancejapanese",
+            // },
+            // {
+            //   label: "Français",
+            //   href: "https://t.me/goosefinancefrench",
+            // },
+            // {
+            //   label: "Announcements",
+            //   href: "https://t.me/goosefinanceann",
+            // },
             {
                 label: "Price Bot",
                 href: "https://t.me/BinanceRocketEGG",
@@ -2809,21 +2809,21 @@ var ResetCSS = styled.createGlobalStyle(templateObject_1$K || (templateObject_1$
 var templateObject_1$K;
 
 var baseColors = {
-    failure: "#ED4B9E",
-    primary: "#aa8929",
-    primaryBright: "#aa8929",
-    primaryDark: "#aa8929",
-    secondary: "#7645D9",
-    success: "#31D0AA",
-    warning: "#FFB237",
+    failure: "#7F2D00",
+    primary: "#2d50e6",
+    primaryBright: "#2686FC",
+    primaryDark: "#003ECF",
+    secondary: "#0088F6",
+    success: "#559917",
+    warning: "#8E4B5D",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#452A7A", textDisabled: "#BDC2C4", textSubtle: "#8f80ba", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#fcf7e8", backgroundDisabled: "#e9eaeb", contrast: "#191326", invertedContrast: "#f2f2f2", input: "#eeeaf4", tertiary: "#d5dcfa", text: "#12205c", textDisabled: "#8196f0", textSubtle: "#1b308a", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9A6AFF", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#FFFFFF", background: "#0d1845", backgroundDisabled: "#0d1845", contrast: "#FFFFFF", invertedContrast: "#2948cf", input: "#eeeaf4", primaryDark: "#003ECF", tertiary: "#4262e9", text: "#ffffff", textDisabled: "#5773eb", textSubtle: "#abb9f5", borderColor: "#09102e", card: "#1b308a", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
