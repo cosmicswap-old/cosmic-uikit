@@ -120,32 +120,32 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/CosmicSwapEN",
       },
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
       // },
-      {
-        label: "中文",
-        href: "https://t.me/goosefinancechinese",
-      },
+      // {
+      //   label: "中文",
+      //   href: "https://t.me/goosefinancechinese",
+      // },
       // {
       //   label: "Tiếng Việt",
       //   href: "https://t.me/PancakeSwapVN",
       // },
-      {
-        label: "Italiano",
-        href: "https://t.me/goosefinanceitalian",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/goosefinancerussian",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
-      },
+      // {
+      //   label: "Italiano",
+      //   href: "https://t.me/goosefinanceitalian",
+      // },
+      // {
+      //   label: "русский",
+      //   href: "https://t.me/goosefinancerussian",
+      // },
+      // {
+      //   label: "Türkiye",
+      //   href: "https://t.me/GooseFinanceTurkey",
+      // },
       // {
       //   label: "Português",
       //   href: "https://t.me/PancakeSwapPortuguese",
@@ -166,22 +166,22 @@ export const socials = [
       //   label: "Announcements",
       //   href: "https://t.me/goosefinanceann",
       // },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
-      },
+      // {
+      //   label: "Price Bot",
+      //   href: "https://t.me/BinanceRocketEGG",
+      // },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/CosmicSwap",
   },
-  {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
-  },
+  // {
+  //   label: "Reddit",
+  //   icon: "RedditIcon",
+  //   href: "https://www.reddit.com/r/GooseFinanceofficial",
+  // },
 ];
 
 export const MENU_HEIGHT = 64;
