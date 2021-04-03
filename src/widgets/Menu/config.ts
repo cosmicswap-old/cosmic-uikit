@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/cosmicswap/",
       },
       {
         label: "Docs",
