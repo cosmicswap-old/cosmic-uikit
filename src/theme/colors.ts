@@ -25,7 +25,7 @@ export const lightColors: Colors = {
   tertiary: "#d5dcfa",
   text: "#12205c",
   textDisabled: "#8196f0",
-  textSubtle: "#1b308a",
+  textSubtle: "#131725",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
   gradients: {
@@ -37,8 +37,8 @@ export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
   secondary: "#FFFFFF",
-  background: "#0d1845",
-  backgroundDisabled: "#0d1845",
+  background: "#00061D",
+  backgroundDisabled: "#00061D",
   contrast: "#FFFFFF",
   invertedContrast: "#2948cf",
   input: "#eeeaf4",
@@ -48,7 +48,7 @@ export const darkColors: Colors = {
   textDisabled: "#5773eb",
   textSubtle: "#abb9f5",
   borderColor: "#09102e",
-  card: "#1b308a",
+  card: "#131725",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
   },
