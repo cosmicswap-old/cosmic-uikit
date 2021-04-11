@@ -22,3 +22,4 @@ export { default as GooseIcon } from "./Goose";
 export { default as HandshakeIcon } from "./Handshake";
 export { default as LayerIcon } from "./Layer";
 export { default as RoadmapIcon } from "./Roadmap";
+export { default as CometIcon } from "./Comet";
