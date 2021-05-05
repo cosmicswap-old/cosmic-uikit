@@ -1885,11 +1885,12 @@ var Icon$S = function (props) {
 
 var Icon$T = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React.createElement("path", { d: "M12 6.76l1.379 4.246h4.465l-3.612 2.625 1.379 4.246-3.611-2.625-3.612 2.625 1.379-4.246-3.612-2.625h4.465l1.38-4.246zm0-6.472l-2.833 8.718h-9.167l7.416 5.389-2.833 8.718 7.417-5.388 7.416 5.388-2.833-8.718 7.417-5.389h-9.167l-2.833-8.718z" })));
+        React.createElement("path", { d: "M7.5 13C7.5 11.8954 8.39543 11 9.5 11H12.5C13.6046 11 14.5 11.8954 14.5 13V15C14.5 16.1046 13.6046 17 12.5 17H9.5C8.39543 17 7.5 16.1046 7.5 15V13Z" }),
+        React.createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M9.5 2C8.39543 2 7.5 2.89543 7.5 4V6.49482C7.5 6.93167 7.2113 7.30895 6.81834 7.49981C5.15004 8.31009 4 10.0207 4 12V17C4 19.2091 5.79086 21 8 21H14C16.2091 21 18 19.2091 18 17V12C18 11.4175 17.9004 10.8583 17.7173 10.3385L17.7892 10.297C19.4786 9.32167 20.0574 7.16153 19.082 5.47221C18.1552 3.86682 16.1534 3.25957 14.5 4.05146V4C14.5 2.89543 13.6046 2 12.5 2H9.5ZM9.5 6.25V4H12.5V6.25H9.5ZM9.22663 7.75C8.89473 8.46917 8.30318 9.00205 7.69211 9.29884C6.68638 9.78731 6 10.8154 6 12V17C6 18.1046 6.89543 19 8 19H14C15.1046 19 16 18.1046 16 17V12C16 10.8154 15.3136 9.78731 14.3079 9.29884C13.6968 9.00205 13.1053 8.46917 12.7734 7.75H9.22663ZM14.5 6.3226V6.49482C14.5 6.93167 14.7887 7.30895 15.1817 7.49981C15.7529 7.77726 16.2634 8.16029 16.6878 8.62352L16.7892 8.56495C17.522 8.1419 17.773 7.20495 17.35 6.47221C16.9346 5.75269 16.0213 5.49542 15.2914 5.89229L14.5 6.3226Z" })));
 };
 
 var Icon$U = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 250 250" }, props),
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
         React.createElement("path", { d: "M5.66 4.2L6.05 4.59C6.44 4.97 6.44 5.61 6.05 5.99L6.04 6C5.65 6.39 5.03 6.39 4.64 6L4.25 5.61C3.86 5.23 3.86 4.6 4.25 4.21L4.26 4.2C4.64 3.82 5.27 3.81 5.66 4.2Z" }),
         React.createElement("path", { d: "M1.99 10.95H3.01C3.56 10.95 4 11.39 4 11.95V11.96C4 12.51 3.56 12.95 3 12.94H1.99C1.44 12.94 1 12.5 1 11.95V11.94C1 11.39 1.44 10.95 1.99 10.95Z" }),
         React.createElement("path", { d: "M12 1H12.01C12.56 1 13 1.44 13 1.99V2.96C13 3.51 12.56 3.95 12 3.94H11.99C11.44 3.94 11 3.5 11 2.95V1.99C11 1.44 11.44 1 12 1Z" }),
@@ -1978,36 +1979,9 @@ var Icon$12 = function (props) {
 };
 
 var Icon$13 = function (props) {
-    return (React.createElement("svg", __assign({ id: "Layer_1", x: "0px", y: "0px", viewBox: "0 0 170 170", xmlSpace: "preserve" }, props),
-        React.createElement("g", null,
-            React.createElement("g", null,
-                React.createElement("g", null,
-                    React.createElement("path", { d: "M138.04,195.699c15.396,0,29.871-5.997,40.759-16.885c22.474-22.474,22.474-59.041,0-81.518 c-22.476-22.478-59.045-22.47-81.518,0c-10.888,10.888-16.885,25.363-16.885,40.759c0,15.397,5.997,29.873,16.885,40.759 C108.167,189.701,122.642,195.699,138.04,195.699z M103.103,103.118c9.634-9.632,22.283-14.447,34.937-14.447 c12.65,0,25.305,4.817,34.937,14.447c19.264,19.266,19.264,50.61,0,69.874c-9.332,9.332-21.741,14.473-34.937,14.473 c-13.198,0-25.605-5.14-34.937-14.473c-9.332-9.333-14.473-21.739-14.473-34.937C88.63,124.858,93.771,112.451,103.103,103.118z" }),
-                    React.createElement("path", { d: "M188.987,87.108c-1.608-1.608-4.214-1.608-5.822,0c-1.609,1.608-1.608,4.214,0,5.822 c12.054,12.054,18.693,28.081,18.693,45.127s-6.638,33.071-18.693,45.126c-24.887,24.883-65.37,24.879-90.253,0 c-1.608-1.608-4.214-1.608-5.822,0c-1.609,1.608-1.608,4.214,0,5.822c14.049,14.049,32.496,21.071,50.95,21.071 c18.448,0,36.903-7.026,50.948-21.071c13.611-13.609,21.105-31.702,21.105-50.948 C210.093,118.812,202.598,100.717,188.987,87.108z" }),
-                    React.createElement("path", { d: "M161.33,154.519c4.218,0,8.433-1.604,11.644-4.815c3.112-3.11,4.825-7.248,4.825-11.646s-1.713-8.534-4.825-11.644 c-6.22-6.224-17.07-6.224-23.29,0c-6.421,6.419-6.421,16.867,0,23.29C152.895,152.915,157.112,154.519,161.33,154.519z  M155.506,132.236c3.112-3.112,8.534-3.112,11.646,0c1.556,1.556,2.412,3.623,2.412,5.822c0,2.199-0.856,4.268-2.412,5.824 c-3.213,3.209-8.433,3.209-11.646,0C152.297,140.67,152.297,135.448,155.506,132.236z" }),
-                    React.createElement("path", { d: "M114.747,126.414c2.409,2.407,5.571,3.609,8.733,3.609c3.165,0,6.327-1.204,8.735-3.611 c4.817-4.815,4.817-12.653,0-17.468c-4.821-4.821-12.657-4.817-17.471,0c-4.814,4.817-4.813,12.652,0,17.468L114.747,126.414z  M120.569,114.766c1.602-1.604,4.218-1.604,5.824,0c1.604,1.606,1.604,4.218,0,5.822c-1.602,1.606-4.214,1.608-5.824,0.002 C118.965,118.983,118.965,116.37,120.569,114.766z" }),
-                    React.createElement("path", { d: "M111.836,164.957c3.163,0,6.327-1.204,8.737-3.611c4.813-4.817,4.813-12.652-0.002-17.471 c-4.817-4.813-12.655-4.815-17.468,0.002c-4.817,4.815-4.817,12.653,0,17.468C105.509,163.755,108.672,164.957,111.836,164.957z  M108.925,149.701c0.802-0.802,1.858-1.204,2.911-1.204c1.055,0,2.109,0.402,2.911,1.204c1.606,1.606,1.606,4.218,0.002,5.822 c-1.604,1.608-4.22,1.606-5.824,0.002C107.321,153.918,107.321,151.307,108.925,149.701z" }),
-                    React.createElement("path", { d: "M127.849,69.638c0.804,0.804,1.858,1.206,2.911,1.206c1.053,0,2.107-0.402,2.911-1.206c1.608-1.608,1.608-4.214,0-5.822 L72.533,2.678c-1.608-1.608-4.214-1.608-5.822,0c-1.608,1.608-1.608,4.214,0,5.822L127.849,69.638z" }),
-                    React.createElement("path", { d: "M68.166,33.246c-1.608,1.608-1.608,4.214,0,5.822l36.392,36.392c0.804,0.804,1.858,1.206,2.911,1.206 c1.053,0,2.107-0.402,2.911-1.206c1.608-1.608,1.608-4.214,0-5.822L73.988,33.246C72.38,31.638,69.775,31.638,68.166,33.246z" }),
-                    React.createElement("path", { d: "M81.268,87.107c0.804,0.804,1.858,1.206,2.911,1.206c1.053,0,2.107-0.402,2.911-1.206c1.608-1.608,1.608-4.214,0-5.822 L7.028,1.222c-1.608-1.608-4.214-1.608-5.822,0c-1.608,1.608-1.608,4.214,0,5.822L81.268,87.107z" }),
-                    React.createElement("path", { d: "M36.14,65.276c-1.608,1.608-1.608,4.214,0,5.822l27.659,27.657c0.804,0.804,1.858,1.206,2.911,1.206 s2.107-0.402,2.911-1.206c1.608-1.608,1.608-4.214,0-5.822L41.962,65.276C40.354,63.667,37.749,63.667,36.14,65.276z" }),
-                    React.createElement("path", { d: "M20.128,53.376c1.054,0,2.107-0.402,2.911-1.206c1.608-1.606,1.608-4.214,0-5.822L7.028,30.336 c-1.608-1.608-4.214-1.608-5.822,0c-1.608,1.606-1.608,4.214,0,5.822l16.01,16.013C18.021,52.974,19.074,53.376,20.128,53.376z" }),
-                    React.createElement("path", { d: "M11.394,63.816c-1.608-1.608-4.214-1.608-5.822,0c-1.609,1.608-1.608,4.214,0,5.822l61.138,61.138 c0.804,0.804,1.858,1.206,2.911,1.206s2.107-0.402,2.911-1.206c1.608-1.608,1.608-4.214,0-5.822L11.394,63.816z" })))),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null),
-        React.createElement("g", null)));
+    return (React.createElement("svg", __assign({ viewBox: "0 0 24 24" }, props),
+        React.createElement("g", { transform: "translate(0.000000,24.000000) scale(0.100000,-0.100000)" },
+            React.createElement("path", { d: "M163 194 l-33 -25 0 22 c0 21 -6 18 -50 -26 -59 -59 -68 -103 -25 -131 38 -25 70 -11 110 49 39 58 42 67 19 67 -13 0 -12 6 6 35 26 41 17 44 -27 9z m-48 -104 c0 -18 -6 -26 -23 -28 -27 -4 -40 22 -22 44 19 22 45 13 45 -16z" }))));
 };
 
 var IconModule = /*#__PURE__*/Object.freeze({
@@ -2304,16 +2278,16 @@ var PanelBody = function (_a) {
 var templateObject_1$B;
 
 var Icons$1 = IconModule;
-var MoonIcon = Icons$1.MoonIcon, SunIcon = Icons$1.SunIcon, LanguageIcon = Icons$1.LanguageIcon;
+Icons$1.MoonIcon; Icons$1.SunIcon; Icons$1.LanguageIcon;
 var Container$4 = styled.div(templateObject_1$C || (templateObject_1$C = __makeTemplateObject(["\n  flex: none;\n  padding: 8px 4px;\n  background-color: ", ";\n  border-top: solid 2px rgba(133, 133, 133, 0.1);\n"], ["\n  flex: none;\n  padding: 8px 4px;\n  background-color: ", ";\n  border-top: solid 2px rgba(133, 133, 133, 0.1);\n"])), function (_a) {
     var theme = _a.theme;
     return theme.nav.background;
 });
 var PriceLink = styled.a(templateObject_2$c || (templateObject_2$c = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"], ["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"])));
-var SettingsEntry = styled.div(templateObject_3$7 || (templateObject_3$7 = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"], ["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"])), MENU_ENTRY_HEIGHT);
+styled.div(templateObject_3$7 || (templateObject_3$7 = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"], ["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 8px;\n"])), MENU_ENTRY_HEIGHT);
 var SocialEntry = styled.div(templateObject_4$2 || (templateObject_4$2 = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 16px;\n"], ["\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: ", "px;\n  padding: 0 16px;\n"])), MENU_ENTRY_HEIGHT);
 var PanelFooter = function (_a) {
-    var isPushed = _a.isPushed, pushNav = _a.pushNav, toggleTheme = _a.toggleTheme, isDark = _a.isDark, cakePriceUsd = _a.cakePriceUsd, currentLang = _a.currentLang, langs = _a.langs, setLang = _a.setLang, priceLink = _a.priceLink;
+    var isPushed = _a.isPushed, pushNav = _a.pushNav; _a.toggleTheme; _a.isDark; var cakePriceUsd = _a.cakePriceUsd; _a.currentLang; _a.langs; _a.setLang; var priceLink = _a.priceLink;
     if (!isPushed) {
         return (React.createElement(Container$4, null,
             React.createElement(IconButton, { variant: "text", onClick: function () { return pushNav(true); } },
@@ -2777,7 +2751,7 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#f8f0ff", backgroundDisabled: "#e9eaeb", contrast: "#191326", invertedContrast: "#f2f2f2", input: "#eeeaf4", tertiary: "#d5dcfa", text: "#12205c", textDisabled: "#8196f0", textSubtle: "#1b308a", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#f8f0ff", backgroundDisabled: "#e9eaeb", contrast: "#191326", invertedContrast: "#f2f2f2", input: "#eeeaf4", tertiary: "#d5dcfa", text: "#12205c", textDisabled: "#8196f0", textSubtle: "#814FC1", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#FFFFFF", background: "#00061D", backgroundDisabled: "#00061D", contrast: "#FFFFFF", invertedContrast: "#2948cf", input: "#eeeaf4", primaryDark: "#003ECF", tertiary: "#141826", text: "#ffffff", textDisabled: "#5773eb", textSubtle: "#abb9f5", borderColor: "#09102e", card: "#131725", gradients: {
