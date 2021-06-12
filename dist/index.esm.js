@@ -2157,60 +2157,61 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/CosmicSwapEN",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //   label: "中文",
-            //   href: "https://t.me/goosefinancechinese",
-            // },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            // {
-            //   label: "Italiano",
-            //   href: "https://t.me/goosefinanceitalian",
-            // },
-            // {
-            //   label: "русский",
-            //   href: "https://t.me/goosefinancerussian",
-            // },
-            // {
-            //   label: "Türkiye",
-            //   href: "https://t.me/GooseFinanceTurkey",
-            // },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            // {
-            //   label: "Español",
-            //   href: "https://t.me/goosefinancespanish",
-            // },
-            // {
-            //   label: "日本語",
-            //   href: "https://t.me/goosefinancejapanese",
-            // },
-            // {
-            //   label: "Français",
-            //   href: "https://t.me/goosefinancefrench",
-            // },
-            // {
-            //   label: "Announcements",
-            //   href: "https://t.me/goosefinanceann",
-            // },
-            // {
-            //   label: "Price Bot",
-            //   href: "https://t.me/BinanceRocketEGG",
-            // },
-        ],
+        href: "https://t.me/CosmicSwapChat"
+        // items: [
+        //   {
+        //     label: "English",
+        //     href: "https://t.me/CosmicSwapEN",
+        //   },
+        // {
+        //   label: "Bahasa Indonesia",
+        //   href: "https://t.me/PancakeSwapIndonesia",
+        // },
+        // {
+        //   label: "中文",
+        //   href: "https://t.me/goosefinancechinese",
+        // },
+        // {
+        //   label: "Tiếng Việt",
+        //   href: "https://t.me/PancakeSwapVN",
+        // },
+        // {
+        //   label: "Italiano",
+        //   href: "https://t.me/goosefinanceitalian",
+        // },
+        // {
+        //   label: "русский",
+        //   href: "https://t.me/goosefinancerussian",
+        // },
+        // {
+        //   label: "Türkiye",
+        //   href: "https://t.me/GooseFinanceTurkey",
+        // },
+        // {
+        //   label: "Português",
+        //   href: "https://t.me/PancakeSwapPortuguese",
+        // },
+        // {
+        //   label: "Español",
+        //   href: "https://t.me/goosefinancespanish",
+        // },
+        // {
+        //   label: "日本語",
+        //   href: "https://t.me/goosefinancejapanese",
+        // },
+        // {
+        //   label: "Français",
+        //   href: "https://t.me/goosefinancefrench",
+        // },
+        // {
+        //   label: "Announcements",
+        //   href: "https://t.me/goosefinanceann",
+        // },
+        // {
+        //   label: "Price Bot",
+        //   href: "https://t.me/BinanceRocketEGG",
+        // },
+        //],
     },
     {
         label: "Twitter",
@@ -2804,7 +2805,7 @@ var brandColors = {
 var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#f8f0ff", backgroundDisabled: "#e9eaeb", contrast: "#191326", invertedContrast: "#f2f2f2", input: "#eeeaf4", tertiary: "#d5dcfa", text: "#12205c", textDisabled: "#8196f0", textSubtle: "#814FC1", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#00061D", background: "#00061D", backgroundDisabled: "#00061D", contrast: "#FFFFFF", invertedContrast: "#2948cf", input: "#eeeaf4", primaryDark: "#003ECF", tertiary: "#141826", text: "#ffffff", textDisabled: "#5773eb", textSubtle: "#abb9f5", borderColor: "#09102e", card: "#131725", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#5773eb", background: "#00061D", backgroundDisabled: "#00061D", contrast: "#FFFFFF", invertedContrast: "#2948cf", input: "#eeeaf4", primaryDark: "#003ECF", tertiary: "#141826", text: "#ffffff", textDisabled: "#5773eb", textSubtle: "#abb9f5", borderColor: "#09102e", card: "#131725", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
